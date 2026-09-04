@@ -1,0 +1,4 @@
+interface:
+  display_name: "读图"
+  short_description: "通过匹配当前网关的视觉模型读取图片、图表和浏览器截图内容"
+  default_prompt: "Use $read-image to inspect this image and return a factual description."
